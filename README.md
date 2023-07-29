@@ -35,3 +35,4 @@ mathematics as a tool to create elegant and efficient algorithms.
   - https://lodev.org/cgtutor/raycasting.html
 - Trigonometry : https://www.mathsisfun.com/sine-cosine-tangent.html
 - MLX42 : https://github.com/codam-coding-college/MLX42
+- Colors : https://www.rapidtables.com/web/color/RGB_Color.html
