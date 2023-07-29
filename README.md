@@ -23,3 +23,8 @@ mathematics as a tool to create elegant and efficient algorithms.
   - Clicking on the red cross on the window’s frame must close the window and quit the program cleanly.
   - The use of images of the minilibX is strongly recommended.
 - Your program must take as a first argument a scene description file with the .cub extension.
+
+# Available Functions
+- open, close, read, write,printf, malloc, free, perror,strerror, exit
+-  All functions of the math library (-lm man man 3 math)
+-  All functions of the MinilibX
