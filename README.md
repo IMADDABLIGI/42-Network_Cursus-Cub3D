@@ -22,3 +22,4 @@ mathematics as a tool to create elegant and efficient algorithms.
   - Pressing ESC must close the window and quit the program cleanly.
   - Clicking on the red cross on the window’s frame must close the window and quit the program cleanly.
   - The use of images of the minilibX is strongly recommended.
+- Your program must take as a first argument a scene description file with the .cub extension.
