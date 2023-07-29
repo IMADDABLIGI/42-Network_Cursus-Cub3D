@@ -33,3 +33,5 @@ mathematics as a tool to create elegant and efficient algorithms.
 - Ray-Casting Tutorial :
   - https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
   - https://lodev.org/cgtutor/raycasting.html
+- Trigonometry : https://www.mathsisfun.com/sine-cosine-tangent.html
+- MLX42 : https://github.com/codam-coding-college/MLX42
