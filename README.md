@@ -28,3 +28,8 @@ mathematics as a tool to create elegant and efficient algorithms.
 - open, close, read, write,printf, malloc, free, perror,strerror, exit
 -  All functions of the math library (-lm man man 3 math)
 -  All functions of the MinilibX
+
+# Ressources
+- Ray-Casting Tutorial :
+ - https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
+ - https://lodev.org/cgtutor/raycasting.html
