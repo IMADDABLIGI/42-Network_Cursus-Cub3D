@@ -31,5 +31,5 @@ mathematics as a tool to create elegant and efficient algorithms.
 
 # Ressources
 - Ray-Casting Tutorial :
- - https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
- - https://lodev.org/cgtutor/raycasting.html
+  - https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
+  - - https://lodev.org/cgtutor/raycasting.html
